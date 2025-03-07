@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ef1md03d",
+    "name": "Stripe",
+    "logoUrl": "https://stripe.com/img/v3/home/twitter.png",
+    "hqCountry": "United States",
+    "marketpricePPS": 195,
+    "lastFundingRoundPPS": 180,
+    "lastFundingRoundDate": "2024-01-15"
+  },
+  {
+    "id": "op2ai45e",
+    "name": "OpenAI",
+    "logoUrl": "https://openai.com/brand/logo.png",
+    "hqCountry": "United States",
+    "marketpricePPS": null,
+    "lastFundingRoundPPS": null,
+    "lastFundingRoundDate": "2024-02-01"
+  },
+  {
+    "id": "an3pc67f",
+    "name": "Anthropic",
+    "logoUrl": "https://anthropic.com/images/logo.png",
+    "hqCountry": "United States",
+    "marketpricePPS": null,
+    "lastFundingRoundPPS": 10.50,
+    "lastFundingRoundDate": "2024-03-10"
+  },
+  {
+    "id": "op2ai45e",
+    "name": "SpaceX",
+    "logoUrl": "https://spacex.com/brand/logo.png",
+    "hqCountry": "United States",
+    "marketpricePPS": 570,
+    "lastFundingRoundPPS": 500,
+    "lastFundingRoundDate": "2024-02-01"
+  }
+]

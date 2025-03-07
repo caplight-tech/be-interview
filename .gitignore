@@ -66,6 +66,3 @@ Thumbs.db
 # Optional: Database files
 *.sqlite
 *.db
-
-# Optional: Generated files
-/data/generated_*
