@@ -66,3 +66,12 @@ Thumbs.db
 # Optional: Database files
 *.sqlite
 *.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+venv/
