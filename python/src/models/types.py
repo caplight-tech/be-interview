@@ -36,3 +36,15 @@ class ClosedTrade(BaseModel):
     userId: int
     transactionDate: datetime
     createdAt: datetime
+
+class OrderOutliers(BaseModel):
+    id: str
+    direction: Literal["bid", "offer"]
+    company: OrderCompany
+    price: float
+    targetSizeInMillions: float
+    userId: int
+    createdAt: datetime
+    outlier: bool
+    avg_price: float
+    threshold: float
